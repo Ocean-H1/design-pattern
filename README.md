@@ -3,3 +3,4 @@
 
 - [ ] 策略模式(Strategy Pattern):
   - [x] [电商促销折扣](./examples/strategy-pattern/discount.ts)
+  - [x] [表单验证规则](./examples/strategy-pattern/formValidator.ts)
