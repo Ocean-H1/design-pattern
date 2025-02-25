@@ -10,4 +10,6 @@
   - [ ] [用户登录状态全局通知]()
   - [ ] [实时聊天应用的消息分法]()
 - 观察者模式(Observe Pattern):
-  - []()
+  - [x] [天气预报通知系统](./examples/Observe-pattern/weatherReport.ts)
+- 装饰器模式(Decorator Pattern):
+  - [x] [React高阶组件(HOC)](./examples/decorator-pattern/button.ts)
